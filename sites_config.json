@@ -2,7 +2,7 @@
   {
     "name": "NEET (UG) 2026 - Public Notices",
     "url": "https://neet.nta.nic.in/",
-    "selector": "#1648449005032-46466f25-2ebe",
+    "selector": "[id='1648449005032-46466f25-2ebe']",
     "item_selector": "a",
     "_note": "This selector targets the 'Public Notices' tab panel on the NEET homepage. Run 'python notification_tracker.py --inspect' after setup to confirm it matches the right list. If it shows 0 items, see SETUP_GUIDE.md -> 'Fixing the selector'."
   }
